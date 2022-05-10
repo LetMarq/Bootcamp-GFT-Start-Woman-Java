@@ -10,6 +10,6 @@ public class QuadrilateralReturn {
     }
 
     public static double area(double smallerBase, double biggerBase, double height) {
-        return ((smallerBase + biggerBase) * height)/2;
+        return ((smallerBase + biggerBase) * height) / 2;
     }
 }
