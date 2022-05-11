@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Bootcamp GFT Start Woman Java.iml" filepath="$PROJECT_DIR$/.idea/Bootcamp GFT Start Woman Java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_3/Entendendo métodos java/ExercicioPratico1/ExercicioPratico1.iml" filepath="$PROJECT_DIR$/Module_3/Entendendo métodos java/ExercicioPratico1/ExercicioPratico1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_3/Entendendo métodos java/ExercicioPratico2/ExercicioPratico2.iml" filepath="$PROJECT_DIR$/Module_3/Entendendo métodos java/ExercicioPratico2/ExercicioPratico2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Module_3/Entendendo métodos java/ExercicioPratico3/ExercicioPratico3.iml" filepath="$PROJECT_DIR$/Module_3/Entendendo métodos java/ExercicioPratico3/ExercicioPratico3.iml" />
+    </modules>
+  </component>
+</project>
